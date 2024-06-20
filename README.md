@@ -36,11 +36,11 @@ Ensure you have the following software and libraries installed:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/YuandaWang/Auto-Race-with-AM-RL.git
+    git clone https://github.com/agi-brain/Autonomous-Race-with-AM-RL.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd repository
+    cd Autonomous-Race-with-AM-RL
     ```
 
 ## Usage
