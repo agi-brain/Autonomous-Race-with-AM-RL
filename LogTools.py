@@ -72,7 +72,7 @@ class CarStateLogClass():
         elif lap == 'lap2':
             if self.lap_index == 1:
                 raise(RuntimeError('No lap2 log data found'))
-            lap_time = (len(self.lap_flag) - self.lap1_time)/100
+            lap_time = (len(self.lap_flag) - self.lap1_time)
             laplog = self.lap2_log
         else:
             raise(ValueError('lap must be string: lap1 or lap2'))
