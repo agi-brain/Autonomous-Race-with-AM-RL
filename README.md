@@ -144,7 +144,9 @@ keywords = {Autonomous race driving, Reinforcement learning, Safety constraint, 
   doi={10.1109/TNNLS.2021.3138924}}
 ```
 
+Yuanda Wang
 
+Jun. 20, 2024
 
 
 
