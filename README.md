@@ -75,11 +75,11 @@ The default evaluation script will generate four figures and one mp4 video clip 
 
 If your trained policy cannot finish at least one lap, the data log for lap 2 will not be given.  
 
-### Results
+## Results
 
 The saved example model `model_1969` reaches the flying lap time of 36.94s in Track-A
 
-### Future Work
+## Future Work
 
 We have several planned features and modules that we aim to integrate into the project in the future:
 
@@ -88,15 +88,15 @@ We have several planned features and modules that we aim to integrate into the p
 - Multi-car competition scenario.
 - Integration to Xuance 
 
-### Contributing
+## Contributing
 
 We welcome contributions from the community. 
 
-### License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-### Acknowledgments
+## Acknowledgments
 
 We would like to thank [Dr. Wenzhang Liu](https://github.com/wenzhangliu) for his support on open sourcing this project.
 
